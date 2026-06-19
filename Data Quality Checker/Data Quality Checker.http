@@ -1,0 +1,6 @@
+@Data_Quality_Checker_HostAddress = http://localhost:5266
+
+GET {{Data_Quality_Checker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

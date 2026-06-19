@@ -1,0 +1,16 @@
+Purpose
+Stores user settings and validation configuration.
+
+To implement
+[ ] User profile
+[ ] Validation profile
+[ ] Rule settings
+[ ] Connection settings
+
+Questions
+- SaaS users or local users?
+- Authentication method?
+- Per-company configurations?
+
+Done when
+- User can save and load validation settings.

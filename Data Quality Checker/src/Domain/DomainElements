@@ -1,0 +1,17 @@
+Purpose
+Contains the central domain models used throughout the application.
+
+To implement
+[ ] ValidationResult
+[ ] RuleResult
+[ ] DataQualityIssue
+[V] Severity and other important enums
+[ ] ValidationContext
+
+Questions
+- How should validation results be stored?
+- What information must every issue contain?
+- Do we support warnings and errors separately?
+
+Done when
+- Validation rules can return results using only Core models.

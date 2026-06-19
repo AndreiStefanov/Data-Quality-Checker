@@ -1,0 +1,22 @@
+Purpose
+Generate human-readable reports from validation results.
+
+To implement
+[ ] Report model
+[ ] PDF generator
+[ ] Excel generator
+[ ] JSON export
+
+Report content
+[ ] Summary section
+[ ] Errors section
+[ ] Warnings section
+[ ] Statistics section
+
+Questions
+- PDF only initially?
+- Download or email?
+- Report branding?
+
+Done when
+- Validation results can be exported as a report.

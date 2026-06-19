@@ -1,0 +1,20 @@
+Purpose
+Contains validation rule contracts and execution engine.
+
+To Implement
+[ ] IValidationRule
+[ ] ValidationRuleBase
+[ ] ValidationEngine
+[ ] Rule Discovery
+
+First rules
+[ ] Empty field check
+[ ] Duplicate value check
+[ ] Invalid format check
+
+Questions
+- Should rules execute sequentially or in parallel?
+- Can users enable/disable rules?
+
+Done when
+- A list of rules can be executed against a dataset.
