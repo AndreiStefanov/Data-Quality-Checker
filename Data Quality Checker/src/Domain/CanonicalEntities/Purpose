@@ -1,0 +1,3 @@
+The purpose of the canonical entities is to provide standard data models for the rought input data
+from the database.
+This allows easier data formatting and processing.

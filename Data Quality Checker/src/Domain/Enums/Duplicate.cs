@@ -2,12 +2,12 @@
 // Represents if a data entry has a duplicate or not.
 //</Summary>
 
-public class Duplicate
+namespace Data_Quality_Checker.Domain.Enums
 {
-    public enum DuplicateEnum
+    public enum DuplicateState
     {
         Unknown, // Implicit value, data check has not been performed yet.
         Unique, // Data entry is unique.
-        HasDuplicates // Data entry has duplicates.
+        Duplicate // Data entry has duplicates.
     }
 }

@@ -1,3 +1,8 @@
 {
-    "dotnet.defaultSolution": "Data Quality Checker.sln"
+    "dotnet.defaultSolution": "Data Quality Checker.sln",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  }
 }

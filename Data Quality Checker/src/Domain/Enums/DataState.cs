@@ -2,9 +2,9 @@
 // Data states for data quality checks.
 // </summary>
 
-public class DataState
+namespace Data_Quality_Checker.Domain.Enums
 {
-    public enum DataStateEnum
+    public enum DataState
     {
         Unknown, // Implicit value, data state is unknown or has not been determined yet.
         Valid, // Data is valid and meets all quality criteria.

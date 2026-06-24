@@ -1,0 +1,3 @@
+The purpose of system entities is to define things like validation confiurations, 
+the state of the validation run, etc.
+Useful for identifying system functions
