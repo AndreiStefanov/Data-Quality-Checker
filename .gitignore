@@ -1,15 +1,12 @@
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+bin/
+obj/
+.vscode/settings.json
 
-# User-specific files (MonoDevelop/Xamarin Studio)
-*.userprefs
+appsettings.Development.json
 
-# Mono auto generated files
-mono_crash.*
+# NuGet
+*.nuget.cache
+project.assets.json
+*.csproj.nuget.*
 
-# Visual Studio auto-generated files
-*.vs/
+*.env
